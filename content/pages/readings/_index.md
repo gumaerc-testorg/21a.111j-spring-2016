@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 6caa34ac-6293-d3bf-8109-1e4f45cccb4e
 ---
@@ -418,7 +421,7 @@ The problem of childlessness, the problem of 'familylessness'
 {{< tdopen >}}
 
 
-Collard, Chantal, and Shireen Kashmeri. "[Embryo Adoption: Emergent Forms of Siblingship among Snowflakes® Families](https://doi.org/10.1111/j.1548-1425.2011.01308.x)." _American Ethnologist_ 38, no. 2 (2011): 307–22.
+Collard, Chantal, and Shireen Kashmeri. "[Embryo Adoption: Emergent Forms of Siblingship among Snowflakes{{< sup "®" >}} Families](https://doi.org/10.1111/j.1548-1425.2011.01308.x)." _American Ethnologist_ 38, no. 2 (2011): 307–22.
 
 Inhorn, Marcia. "Missing Motherhood: Infertility, Technology, and Poverty in Egyptian Women's Lives." Chapter 5 in _Ideologies and Technologies of Motherhood: Race, Class, Sexuality, Nationalism_. Edited by France Winndance Twine and Helena Ragoné. Routledge, 2000. ISBN: 9780415921107.
 
