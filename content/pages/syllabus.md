@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains information about logistics and details about the
+  course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8faba87d-3120-fe0e-f522-fbc4ac1dc7f5
 ---
@@ -88,7 +92,7 @@ These will consist of a couple paragraphs describing your reaction to one or mor
 
 You will write 3 papers, roughly 2000 words each, each counting for 25% of your final grade. The first paper will address the political economy of gender, family, and households. The second paper will explore the relationship between "love" and "money" in families / households in a comparative context. The third paper on a topic of the student's choosing may include personal reflection and / or interviews.
 
-For more detail, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more detail, see the {{% resource_link 535c5934-b0c7-f85b-3071-e0e64aa48fde "Assignments" %}} section.
 
 Required Books
 --------------
@@ -97,4 +101,4 @@ Walley, Christine J. _Exit Zero: Family and Class in Postindustrial Chicago_. Un
 
 Park, Lisa Sun-Hee. _Consuming Citizenship: Children of Asian Immigrant Entrepreneurs_. Stanford University Press, 2005. ISBN: 9780804752480.
 
-The remainder of the readings can be found in the [Readings]({{< baseurl >}}/pages/readings) section.
+The remainder of the readings can be found in the {{% resource_link 6caa34ac-6293-d3bf-8109-1e4f45cccb4e "Readings" %}} section.
