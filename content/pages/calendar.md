@@ -154,7 +154,7 @@ Immigration, dislocation and legal limbo
 
 ### Screening
 
-{{% resource_link "3e01e1a3-d302-461a-8485-4655e5a1eb17" "_Which Way Home_" %}}. Directed by Rebecca Cammisa. Color, 90 min. 2009.
+[_Which Way Home_](http://whichwayhome.net/). Directed by Rebecca Cammisa. Color, 90 min. 2009.
 
 
 {{< tdclose >}}
@@ -198,7 +198,7 @@ Searching for a happily ever after?
 
 ### Screening
 
-{{% resource_link "6027ef21-604d-46dc-b32e-5d0e9ccd349c" "_In The Name of Love_" %}}. Directed by Shannon O'Rourke. Color, 46 min. 2003.
+[_In The Name of Love_](http://inthenameoflovedoc.com/). Directed by Shannon O'Rourke. Color, 46 min. 2003.
 
 
 {{< tdclose >}}
@@ -234,9 +234,9 @@ Marriage and heteronormativity
 
 The history and role of birth control
 
-### Screening{{% resource_link "781609f6-e85c-48ff-8d2e-ce7a03d11e24" "" %}}
+### Screening[](http://www.imdb.com/title/tt0342886/)
 
-Tommy Mabry. "{{% resource_link "fa256edc-1a69-4204-a2e4-9cde96183a2e" "American Experience The Pill." %}}"  February 28, 2017. YouTube.
+Tommy Mabry. "[American Experience The Pill.](https://www.youtube.com/watch?v=5RGcKKFxt0I)"  February 28, 2017. YouTube.
 
 
 {{< tdclose >}}
@@ -320,11 +320,11 @@ Argumentative essay 3 proposal due (1 paragraph theses statement + bibliography)
 
 Infertility, secrecy and silence
 
-Guest: {{% resource_link "dc43f7f4-4568-473e-b274-645f2e77e7d7" "Burcu Mutlu" %}}, _MIT Doctoral Program in History, Anthropology, and Science, Technology, and Society ({{% resource_link "e2e6df88-6b99-440c-8866-7087428c9c5d" "HASTS" %}})_.
+Guest: [Burcu Mutlu](http://web.mit.edu/hasts/graduate/mutlu.html), _MIT Doctoral Program in History, Anthropology, and Science, Technology, and Society ([HASTS](http://web.mit.edu/hasts/index.html))_.
 
 ### Screening
 
-{{% resource_link "b972850d-0584-4f54-8381-5140f20ab231" "_Sperm Donor X: A Different Conception_" %}}. Directed by Deirdre Fishel. Color, 56 min. 2011.
+[_Sperm Donor X: A Different Conception_](https://www.newday.com/film/sperm-donor-x-different-conception). Directed by Deirdre Fishel. Color, 56 min. 2011.
 
 
 {{< tdclose >}}
