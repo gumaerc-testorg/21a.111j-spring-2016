@@ -97,7 +97,7 @@ For more detail, see the {{% resource_link 535c5934-b0c7-f85b-3071-e0e64aa48fde 
 Required Books
 --------------
 
-Walley, Christine J. _Exit Zero: Family and Class in Postindustrial Chicago_. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with [Google Books](http://books.google.com/books?id=noaQB6Pb8LAC&pg=PAfrontcover)\]
+Walley, Christine J. _Exit Zero: Family and Class in Postindustrial Chicago_. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with {{% resource_link "26bd02f4-2f4d-4a5f-9503-05fcdf4e4cc5" "Google Books" %}}\]
 
 Park, Lisa Sun-Hee. _Consuming Citizenship: Children of Asian Immigrant Entrepreneurs_. Stanford University Press, 2005. ISBN: 9780804752480.
 
